@@ -1,0 +1,10 @@
+3,         Latte, 85.0
+4,         Ice Latte with Salted Caramel, 115.25
+5,         Cappuccino with coconut milk, 105.5
+6,         Lavender Raf, 90.0
+9,      Flat white, 60.0
+10,     Irish coffee, 75.75
+11,     Matcha Latte, 120.0
+12,    Double espresso, 70.0
+13,   Double espresso, 70.0
+14,  Turkish coffee, 80.0
